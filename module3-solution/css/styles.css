@@ -1,0 +1,12 @@
+section {
+    min-height: 1000px;
+    background-color: #ccc;
+    padding: 0 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}
+
+h2 {
+    padding-top: 20px;
+}
